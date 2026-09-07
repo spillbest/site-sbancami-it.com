@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /referral-link
+
+Sitemap: https://sbancami-it.com/sitemap.xml
